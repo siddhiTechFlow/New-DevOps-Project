@@ -1,0 +1,10 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.restapis.tests.POST_Test"/>
+      <class name="org.restapis.tests.BasicAuth"/>
+      <class name="org.restapis.tests.GET_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
